@@ -2,6 +2,16 @@
 #
 .DS_Store
 
+# history
+.history
+
+# package-lock.json
+package-lock.json
+
+
+# package-lock.json
+.vscode
+
 # Xcode
 #
 build/
@@ -39,6 +49,7 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
+yarn.lock
 
 # fastlane
 #
@@ -64,3 +75,12 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
