@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104683140784",
+    "project_id": "carecargo-15e36",
+    "storage_bucket": "carecargo-15e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104683140784:android:f99fb97e43c3389d8d2d75",
+        "android_client_info": {
+          "package_name": "com.carecargoforwarders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTXvvyfR8Ltm5LXObAsuLbDwRIQB-nHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
